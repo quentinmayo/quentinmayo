@@ -2,8 +2,6 @@
 #### ABC - Always be Coding
 https://quentinmayo.com
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills:  Cloud Architecture Concepts / Programming Language Theory
 
 - 🔭 I’m currently working on Building social network 
