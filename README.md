@@ -24,4 +24,4 @@ Skills:  Cloud Architecture Concepts / Programming Language Theory
 
 ![GitHub metrics](https://metrics.lecoq.io/quentinmayo)  
 
-![Profile views](https://gpvc.arturio.dev/quentinmayo)  
+
