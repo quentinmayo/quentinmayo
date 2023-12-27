@@ -20,8 +20,4 @@ Skills:  Cloud Architecture Concepts / Programming Language Theory
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quentinmayo&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=quentinmayo)  
-
-![GitHub metrics](https://metrics.lecoq.io/quentinmayo)  
-
 
