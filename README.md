@@ -4,7 +4,7 @@ https://quentinmayo.com
 
 Skills:  Cloud Architecture Concepts / Programming Language Theory
 
-- 🔭 I’m currently working on Building social network 
+- 🔭 I’m currently working on building cool things
 - 🌱 I’m currently learning Firebase and Angular . . . Again 
 - 👯 I’m looking to collaborate on Any 
 - 💬 Ask me about Security and Development Concepts 
