@@ -2,6 +2,14 @@
 #### ABC - Always be Coding
 https://quentinmayo.com
 
+
+Thoughts of an Engineer: 
+
+The world of coding has changed. Skills still matter, but now compute, tokens, and usage matter too.
+I realized I was ending each month with unused AI credits, so I decided to start building more experimental and interesting projects with them.
+Many of the repositories here are ideas, prototypes, tools, or concepts I may personally use or continue developing over time. Some projects are polished, others are rough experiments built quickly to explore an idea.
+I do care about security, but use anything in these repositories at your own risk. Because these projects move fast, I may not fully harden, audit, or productionize every feature or tool before publishing it, unless a lot more engineers are using it ( of course)  
+
 Skills:  Cloud Architecture Concepts / Programming Language Theory
 
 - 🔭 I’m currently working on building cool things
