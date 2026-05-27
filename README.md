@@ -3,12 +3,13 @@
 https://quentinmayo.com
 
 
-Thoughts of an Engineer: 
+Thoughts of an Engineer: 2026-05-27
 
-The world of coding has changed. Skills still matter, but now compute, tokens, and usage matter too.
+The world of coding has changed. Skills still matter, but now compute, tokens, and iteration speed matter too.
 I realized I was ending each month with unused AI credits, so I decided to start building more experimental and interesting projects with them.
+I was also putting a lot of my work behind a  GitHub org, which meant my personal GitHub didn’t really reflect how much I was actually building. That honestly sucked, so this is also an effort to build more openly in public on my own account.
 Many of the repositories here are ideas, prototypes, tools, or concepts I may personally use or continue developing over time. Some projects are polished, others are rough experiments built quickly to explore an idea.
-I do care about security, but use anything in these repositories at your own risk. Because these projects move fast, I may not fully harden, audit, or productionize every feature or tool before publishing it, unless a lot more engineers are using it ( of course)  
+I do care about security, but use anything in these repositories at your own risk. Because these projects move fast, I may not fully harden, audit, or productionize every feature or tool before publishing it.
 
 Skills:  Cloud Architecture Concepts / Programming Language Theory
 
